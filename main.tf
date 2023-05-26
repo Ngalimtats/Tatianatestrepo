@@ -63,11 +63,11 @@ resource "aws_subnet" "db-subnet" {
   }
 }
 
-# resource "aws_s3_bucket" "dev_bucket" {
-#   bucket = "yvebucket2012"
+resource "aws_s3_bucket" "dev_bucket" {
+  bucket = "yvebucket2012"
 
-#   tags = {
-#     Name        = "My bucket"
-#     Environment = "Dev"
-#   }
-# }
+  tags = {
+    Name        = "My bucket"
+    Environment = "Dev"
+  }
+}
