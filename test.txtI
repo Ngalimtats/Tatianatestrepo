@@ -1,2 +1,3 @@
 This is a test to verify the github webhook again
 I failed to choose the events to trigger the webhook and so the trigger wasn't done
+Trying again.I forgot to add a slash after the jenkins url
