@@ -1,2 +1,2 @@
-# wirfonlab2
-> This repository will be used for my terraform git exercises
+# Complete CICD Pipeline
+> This repository will be used for my cicd exercises
